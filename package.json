@@ -8,7 +8,9 @@
     "dev": "remotion studio --port 3000",
     "generate": "node pipeline/generate.mjs",
     "render": "remotion render RhymeVideo out/rhyme-final.mp4",
-    "render-story": "remotion render StoryVideo out/story-final.mp4"
+    "render-story": "remotion render StoryVideo out/story-final.mp4",
+    "auth": "node pipeline/youtube-auth.mjs",
+    "upload": "node pipeline/youtube-upload.mjs"
   },
   "repository": {
     "type": "git",
@@ -26,6 +28,7 @@
     "@remotion/cli": "^4.0.484",
     "@remotion/google-fonts": "^4.0.484",
     "@remotion/media-utils": "^4.0.484",
+    "googleapis": "^173.0.0",
     "msedge-tts": "^2.0.6",
     "music-metadata": "^11.13.0",
     "react": "^19.2.7",

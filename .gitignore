@@ -1,0 +1,33 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Large binaries (FFmpeg)
+ffmpeg/
+
+# Media Assets & Conformed Videos/Audios (ignore all generated assets)
+assets/
+*.mp4
+*.mp3
+*.wav
+*.png
+*.ass
+*.srt
+*.json
+
+# Temporary / System logs & Scratch files
+.system_generated/
+*.log
+.gemini/
+.agents/
+scratch/
+db.sqlite3
+analytics_rag.db

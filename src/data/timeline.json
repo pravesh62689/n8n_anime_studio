@@ -1,0 +1,122 @@
+{
+  "rhyme": {
+    "title": "Nacho Nacho Hathi Raja | Colors Song",
+    "character": "assets/hathi.jpg",
+    "lines": [
+      {
+        "text": "Hathi Raja aaya aaya, dhoom machao re!",
+        "image": "assets/rhyme-drum.jpg",
+        "audio": "assets/rhyme-line-0.mp3",
+        "duration": 3.96
+      },
+      {
+        "text": "Nacho nacho sab milke, taali bajao re!",
+        "image": "assets/rhyme-hands.jpg",
+        "audio": "assets/rhyme-line-1.mp3",
+        "duration": 3.936
+      },
+      {
+        "text": "Red red apple, laal laal apple!",
+        "image": "assets/rhyme-apple.jpg",
+        "audio": "assets/rhyme-line-2.mp3",
+        "duration": 3.336
+      },
+      {
+        "text": "Yellow yellow kela, meetha meetha kela!",
+        "image": "assets/rhyme-banana.jpg",
+        "audio": "assets/rhyme-line-3.mp3",
+        "duration": 3.624
+      },
+      {
+        "text": "Green green pattey, jhoomo jhoomo re!",
+        "image": "assets/rhyme-leaf.jpg",
+        "audio": "assets/rhyme-line-4.mp3",
+        "duration": 3.504
+      },
+      {
+        "text": "Blue blue paani, chhap chhap paani!",
+        "image": "assets/rhyme-water.jpg",
+        "audio": "assets/rhyme-line-5.mp3",
+        "duration": 3.36
+      },
+      {
+        "text": "Nacho nacho Hathi Raja, nacho nacho re!",
+        "image": "assets/rhyme-drum.jpg",
+        "audio": "assets/rhyme-line-6.mp3",
+        "duration": 4.08
+      },
+      {
+        "text": "Colors ki duniya mein, aao gaao re!",
+        "image": "assets/rhyme-rainbow.jpg",
+        "audio": "assets/rhyme-line-7.mp3",
+        "duration": 3.192
+      },
+      {
+        "text": "Ek do teen chaar, colors hain hazaar!",
+        "image": "assets/rhyme-stars.jpg",
+        "audio": "assets/rhyme-line-8.mp3",
+        "duration": 3.576
+      },
+      {
+        "text": "Hathi Raja bola: bye bye, phir milenge yaar!",
+        "image": "assets/rhyme-wave.jpg",
+        "audio": "assets/rhyme-line-9.mp3",
+        "duration": 4.536
+      }
+    ]
+  },
+  "story": {
+    "title": "Chintu Hathi Aur Magic Rainbow | Moral Story",
+    "character": "assets/chintu.jpg",
+    "lines": [
+      {
+        "text": "Ek jungle mein Chintu naam ka chhota hathi rehta tha.",
+        "image": "assets/story-s1.jpg",
+        "audio": "assets/story-line-0.mp3",
+        "duration": 4.704
+      },
+      {
+        "text": "Chintu bahut sad tha, kyunki uska koi friend nahi tha.",
+        "image": "assets/story-s2.jpg",
+        "audio": "assets/story-line-1.mp3",
+        "duration": 5.064
+      },
+      {
+        "text": "Ek din baarish ke baad, sky mein magic rainbow aaya!",
+        "image": "assets/story-s3.jpg",
+        "audio": "assets/story-line-2.mp3",
+        "duration": 4.872
+      },
+      {
+        "text": "Rainbow bola: Chintu, smile karo, sabko hello bolo!",
+        "image": "assets/story-s4.jpg",
+        "audio": "assets/story-line-3.mp3",
+        "duration": 5.064
+      },
+      {
+        "text": "Chintu ne bunny ko bola hello, aur monkey ko bola hi!",
+        "image": "assets/story-s5.jpg",
+        "audio": "assets/story-line-4.mp3",
+        "duration": 4.896
+      },
+      {
+        "text": "Sab bole: wow Chintu, tum kitne friendly ho!",
+        "image": "assets/story-s6.jpg",
+        "audio": "assets/story-line-5.mp3",
+        "duration": 4.584
+      },
+      {
+        "text": "Ab Chintu ke bahut saare friends the, sab khush the!",
+        "image": "assets/story-s7.jpg",
+        "audio": "assets/story-line-6.mp3",
+        "duration": 4.488
+      },
+      {
+        "text": "Moral: Smile karo, hello bolo, friends banao!",
+        "image": "assets/story-s8.jpg",
+        "audio": "assets/story-line-7.mp3",
+        "duration": 4.56
+      }
+    ]
+  }
+}

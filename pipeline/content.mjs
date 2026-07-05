@@ -20,7 +20,21 @@ export const RHYME = {
     { text: "Blue blue paani, chhap chhap paani!", prop: "water", propPrompt: "cute blue water drop character splashing" },
     { text: "Nacho nacho Hathi Raja, nacho nacho re!", prop: "drum" },
     { text: "Colors ki duniya mein, aao gaao re!", prop: "rainbow", propPrompt: "cute smiling rainbow with fluffy clouds" },
+    // Chorus repeat 1 (repetition = kids' watch-time formula, no new assets needed)
+    { text: "Hathi Raja aaya aaya, dhoom machao re!", prop: "drum" },
+    { text: "Nacho nacho sab milke, taali bajao re!", prop: "hands" },
+    // Verse 2: more colors
+    { text: "Orange orange santra, gol gol santra!", prop: "orange", propPrompt: "cute smiling orange fruit character" },
+    { text: "Purple purple angoor, chhote chhote angoor!", prop: "grapes", propPrompt: "cute purple grapes bunch with happy face" },
+    { text: "Pink pink phool, khushboo wala phool!", prop: "flower", propPrompt: "cute pink flower character smiling" },
+    { text: "White white badal, roi roi badal!", prop: "cloud", propPrompt: "fluffy white cloud character with cute face" },
+    // Chorus repeat 2
+    { text: "Nacho nacho Hathi Raja, nacho nacho re!", prop: "drum" },
+    { text: "Colors ki duniya mein, aao gaao re!", prop: "rainbow" },
+    // Counting bridge + outro
     { text: "Ek do teen chaar, colors hain hazaar!", prop: "stars", propPrompt: "colorful cute stars with happy faces" },
+    { text: "Paanch chhe saat aath, sab bolo ek saath!", prop: "stars" },
+    { text: "Taali bajao, jhoomo aur gaao!", prop: "hands" },
     { text: "Hathi Raja bola: bye bye, phir milenge yaar!", prop: "wave", propPrompt: "baby elephant waving goodbye with crown" },
   ],
 };

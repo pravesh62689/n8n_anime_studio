@@ -52,15 +52,75 @@
         "duration": 3.192
       },
       {
-        "text": "Ek do teen chaar, colors hain hazaar!",
-        "image": "assets/rhyme-stars.jpg",
+        "text": "Hathi Raja aaya aaya, dhoom machao re!",
+        "image": "assets/rhyme-drum.jpg",
         "audio": "assets/rhyme-line-8.mp3",
         "duration": 3.576
       },
       {
+        "text": "Nacho nacho sab milke, taali bajao re!",
+        "image": "assets/rhyme-hands.jpg",
+        "audio": "assets/rhyme-line-9.mp3",
+        "duration": 4.536
+      },
+      {
+        "text": "Orange orange santra, gol gol santra!",
+        "image": "assets/rhyme-orange.jpg",
+        "audio": "assets/rhyme-line-10.mp3",
+        "duration": 3.864
+      },
+      {
+        "text": "Purple purple angoor, chhote chhote angoor!",
+        "image": "assets/rhyme-grapes.jpg",
+        "audio": "assets/rhyme-line-11.mp3",
+        "duration": 4.08
+      },
+      {
+        "text": "Pink pink phool, khushboo wala phool!",
+        "image": "assets/rhyme-flower.jpg",
+        "audio": "assets/rhyme-line-12.mp3",
+        "duration": 3.552
+      },
+      {
+        "text": "White white badal, roi roi badal!",
+        "image": "assets/rhyme-cloud.jpg",
+        "audio": "assets/rhyme-line-13.mp3",
+        "duration": 3.552
+      },
+      {
+        "text": "Nacho nacho Hathi Raja, nacho nacho re!",
+        "image": "assets/rhyme-drum.jpg",
+        "audio": "assets/rhyme-line-14.mp3",
+        "duration": 4.08
+      },
+      {
+        "text": "Colors ki duniya mein, aao gaao re!",
+        "image": "assets/rhyme-rainbow.jpg",
+        "audio": "assets/rhyme-line-15.mp3",
+        "duration": 3.192
+      },
+      {
+        "text": "Ek do teen chaar, colors hain hazaar!",
+        "image": "assets/rhyme-stars.jpg",
+        "audio": "assets/rhyme-line-16.mp3",
+        "duration": 3.576
+      },
+      {
+        "text": "Paanch chhe saat aath, sab bolo ek saath!",
+        "image": "assets/rhyme-stars.jpg",
+        "audio": "assets/rhyme-line-17.mp3",
+        "duration": 4.008
+      },
+      {
+        "text": "Taali bajao, jhoomo aur gaao!",
+        "image": "assets/rhyme-hands.jpg",
+        "audio": "assets/rhyme-line-18.mp3",
+        "duration": 3.36
+      },
+      {
         "text": "Hathi Raja bola: bye bye, phir milenge yaar!",
         "image": "assets/rhyme-wave.jpg",
-        "audio": "assets/rhyme-line-9.mp3",
+        "audio": "assets/rhyme-line-19.mp3",
         "duration": 4.536
       }
     ]

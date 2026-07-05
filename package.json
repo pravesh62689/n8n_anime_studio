@@ -4,7 +4,7 @@
   "description": "Anime Studio 3.0 is a professional, fully automated, and 100% free cartoon generation pipeline. Designed to operate on constrained hardware (12GB RAM, CPU/NVIDIA MX230 GPU), it utilizes highly optimized visual generation fallbacks, localized vector RAG loops, and 120 FPS frame interpolation to produce continuous, 4-5 minute, high-fidelity kids' cartoon animations with realistic Hindi vocals.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node pipeline/test.mjs",
     "dev": "remotion studio --port 3000",
     "generate": "node pipeline/generate.mjs",
     "render": "remotion render RhymeVideo out/rhyme-final.mp4",

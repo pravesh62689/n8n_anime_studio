@@ -22,7 +22,7 @@ export const Karaoke: React.FC<{ text: string; durationFrames: number; big?: boo
         style={{
           background: "rgba(255,255,255,0.94)", borderRadius: 32, padding: "22px 48px",
           maxWidth: 1560, display: "flex", flexWrap: "wrap", justifyContent: "center",
-          gap: "0 16px", boxShadow: "0 10px 40px rgba(58,46,110,0.25)",
+          boxShadow: "0 10px 40px rgba(58,46,110,0.25)",
           border: `5px solid ${COLORS.sun}`,
         }}
       >
@@ -36,7 +36,7 @@ export const Karaoke: React.FC<{ text: string; durationFrames: number; big?: boo
                 fontSize: big ? 58 : 46, fontWeight: 800, lineHeight: 1.4,
                 color: active ? COLORS.highlight : done ? COLORS.coral : COLORS.text,
                 transform: active ? "scale(1.18)" : "scale(1)",
-                display: "inline-block", transition: "none",
+                display: "inline-block", transition: "none", margin: "0 9px",
                 textShadow: active ? "0 2px 0 rgba(0,0,0,0.08)" : undefined,
               }}
             >

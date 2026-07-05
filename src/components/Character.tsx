@@ -13,18 +13,15 @@ export const Character: React.FC<{
   const sway = Math.sin(ph / 2) * 7 * energy;
   return (
     <div style={{ position: "absolute", left: x, top: y, width: size, height: size }}>
-      <div
+      <Img
+        src={staticFile(src)}
         style={{
-          width: "100%", height: "100%",
+          width: "100%", height: "100%", objectFit: "contain", mixBlendMode: "multiply",
           transform: `translateY(${-bounce}px) rotate(${sway}deg) scale(${(flip ? -1 : 1) * (2 - squash)}, ${squash})`,
           transformOrigin: "bottom center",
+          borderRadius: 28,
         }}
-      >
-        <Img
-          src={staticFile(src)}
-          style={{ width: "100%", height: "100%", objectFit: "contain", mixBlendMode: "multiply" }}
-        />
-      </div>
+      />
       <div
         style={{
           position: "absolute", bottom: -12, left: "18%", width: "64%", height: 26,

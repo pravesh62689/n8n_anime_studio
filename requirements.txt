@@ -1,0 +1,19 @@
+# System dependencies (NOT pip-installable — install via your OS package
+# manager and confirm both are on PATH before running anything here):
+#   ffmpeg >= 6.0
+#   ffprobe (ships with ffmpeg)
+
+edge-tts>=6.1.0
+pysubs2>=1.8.0
+sentence-transformers>=3.0.0
+sqlite-vec>=0.1.9
+rembg>=2.0.0
+onnxruntime>=1.18.0
+gradio_client>=1.0.0
+google-api-python-client>=2.0.0
+google-auth-oauthlib>=1.0.0
+python-dotenv>=1.0.0
+Pillow>=10.0.0
+numpy>=1.26.0
+requests>=2.31.0
+fastmcp>=0.2.0

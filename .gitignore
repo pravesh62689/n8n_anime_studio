@@ -1,0 +1,26 @@
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+.yt-token.json
+
+# Assets & output media
+assets/
+out/
+
+# Virtual environment & dependencies
+.venv/
+node_modules/
+
+# Database & runtime state
+analytics_rag.db
+analytics_rag.db.bak
+hf_quota_state.json
+
+# Python & Build artifacts
+__pycache__/
+*.py[cod]
+*.log
+temp_ffmpeg_v3/
+dist/
+build/
